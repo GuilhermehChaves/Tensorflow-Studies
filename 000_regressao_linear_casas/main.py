@@ -41,7 +41,7 @@ np.random.seed(1)
 # Passamos número 2 pois queremos dois números
 np.random.rand(2)
 
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 b0 = tf.Variable(0.41)
 b1 = tf.Variable(0.72)
 
