@@ -9,6 +9,7 @@ forma que a distâcia entre os pontos seja a menor possível, podendo ser
 utilizada futuramente para fazer previsões de y com base em novos valores de x.
 
 Tendo como base as fórmulas:
+
 **Regressão linear simples**
 
 y = a + b * x
