@@ -13,11 +13,13 @@ Tendo como base as fórmulas:
 **Regressão linear simples**
 
 y = a + b * x
+
 Quando temos apenas uma variável x.
 
 **Regressão linear múltipla**
 
 y = a + b * x + b2 * x2 + ... bn * xn
+
 Quando temos várias variáveis independentes influenciando y.
 
 Onde a e b definem a posição da reta ou da curvatura no gráfico, o objetivo é
