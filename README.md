@@ -10,10 +10,12 @@ utilizada futuramente para fazer previsões de y com base em novos valores de x.
 
 Tendo como base as fórmulas:
 **Regressão linear simples**
+
 y = a + b * x
 Quando temos apenas uma variável x.
 
 **Regressão linear múltipla**
+
 y = a + b * x + b2 * x2 + ... bn * xn
 Quando temos várias variáveis independentes influenciando y.
 
