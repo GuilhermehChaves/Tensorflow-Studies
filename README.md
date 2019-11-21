@@ -67,6 +67,3 @@ Onde os dados não ficam de fora da reta.
 
 
 
-
-
-
