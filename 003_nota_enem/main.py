@@ -85,7 +85,7 @@ print(valores_previsoes)
 
 print('---------- Novos registros ----------')
 # Define uma variável data como um array do tipo numpy
-data = np.array([[4,2,69]])
+data = np.array([[3,2,69]])
 data.shape
 # Normalizando os valores na mesma escala de x
 data = scaler_x.transform(data)
@@ -106,6 +106,7 @@ for result in regressor.predict(input_fn = nova_funcao_previsao):
 
 resultado = np.asarray(resultado).reshape(-1, 1)
 resultado = scaler_y.inverse_transform(resultado)
+
 
 print('---------- Previsão registro ----------')
 print(resultado)
